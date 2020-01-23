@@ -1,2 +1,2 @@
-# React-UI
-Basic React UI That look for potential real estate customers
+# ReactTest
+Build a simple UI that will look for potential real estate customers
